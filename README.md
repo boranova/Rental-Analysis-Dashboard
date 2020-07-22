@@ -6,11 +6,13 @@ A rental analysis notebook was created using San Francisco rental data. Calculat
 
 # Tools and Resources
 
-Pandas
-OS
-MatPlotLib
-HVPlot
-Panel
-Plotly Express
-Pathlib
-MapBox API
+Pandas &nbsp;
+OS &nbsp;
+MatPlotLib &nbsp;
+HVPlot &nbsp;
+Panel &nbsp;
+Plotly Express &nbsp;
+Pathlib &nbsp;
+MapBox API &nbsp;
+
+
