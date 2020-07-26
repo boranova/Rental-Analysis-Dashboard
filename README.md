@@ -1,6 +1,10 @@
  ![San_Francisco](./Images/san-francisco-park-reading.jpg)
 
-A rental analysis for San Francisco rental data. Visualizations made using Plotly and added to an interactive dashboard using Panel. A neighborhod made with MapBox API.
+A rental analysis for San Francisco rental data. 
+
+Visualizations made with Plotly and added to a dashboard using Panel.
+
+A neighborhod map made with MapBox API.
 
 ----
 
